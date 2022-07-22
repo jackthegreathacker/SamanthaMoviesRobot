@@ -367,8 +367,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Support ⭕', url='t.me/TeleRoid14'),
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/TeleRoidGroup')
+            InlineKeyboardButton('⭕ Support ⭕', url='t.me/star_movies_hd_telugu'),
+            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/star_movies_hd_telugu')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
@@ -400,10 +400,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/TeleRoidGroup'),
-            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/TeleRoid14')
+            InlineKeyboardButton('⭕ Updates ⭕', url='https://t.me/star_movies_hd_telugu'),
+            InlineKeyboardButton('⭕ Support ⭕', url='https://t.me/star_movies_hd_telugu')
             ],[
-            InlineKeyboardButton('🚸 Powered By', url='https://t.me/MoviesFlixers_DL'),
+            InlineKeyboardButton('🚸 Powered By', url='https://t.me/star_movies_hd_telugu'),
             InlineKeyboardButton('💢 Source', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
