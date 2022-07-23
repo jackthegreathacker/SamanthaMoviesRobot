@@ -18,7 +18,7 @@ Here is the Help For My Bot Commands."""
 ☞ BotsList" : <a href='https://t.me/star_movies_hd_telugu'> @𝙿𝙷𝙻𝚒𝚜𝚝𝙱𝚘𝚝</𝚊>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/jackthegreathacker/SamanthaMoviesBot
+- Source - https://t.me/star_movies_hd_telugu
 
 <b>DEVS:</b>
 - <a href=https://t.me/star_movies_hd_telugu>Team Jack</a>"""
