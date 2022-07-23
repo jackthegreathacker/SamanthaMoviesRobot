@@ -1,12 +1,12 @@
 class script(object):
     START_TXT = """Hello {} 👨‍💻,
-My Name is <a href='https://t.me/SamanthaSearchBot'>Samantha Movies Bot</a>
+My Name is <a href='https://t.me/star_movies_hd_telugu'>Star Movies Bot</a>
 I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
 Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
 Made With ❤ BY @star_movies_hd_telugu"""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
-    ABOUT_TXT = """☞ My Name: Sam Movies
+    ABOUT_TXT = """☞ My Name: Jack Movies
 ☞ Developer: @star_movies_hd_telugu
 ☞ Library: Pyrogram
 ☞ Language: Python 3
@@ -21,13 +21,13 @@ Here is the Help For My Bot Commands."""
 - Source - https://github.com/jackthegreathacker/SamanthaMoviesBot
 
 <b>DEVS:</b>
-- <a href=https://t.me/TheTeleRoid>Team TeleRoid</a>"""
+- <a href=https://t.me/star_movies_hd_telugu>Team Jack</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. Samantha maria should have admin privillage.
+1. Jack maria should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
