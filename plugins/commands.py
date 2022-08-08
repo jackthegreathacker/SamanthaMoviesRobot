@@ -24,7 +24,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Join For Movies ⭕', url='https://t.me/star_movies_hd_telugu')
+            InlineKeyboardButton('⭕ Join For Movies ⭕', url='https://t.me/Jack_Network')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
@@ -71,7 +71,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 Search Here', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🕵 Go Inline', switch_inline_query='')
             ],[
-            InlineKeyboardButton('⭕ Join For Movies ⭕', url='https://t.me/star_movies_hd_telugu')
+            InlineKeyboardButton('⭕ Join For Movies ⭕', url='https://t.me/Jack_Network')
             ],[
             InlineKeyboardButton('🆘 Help', callback_data='help'),
             InlineKeyboardButton('👥 About', callback_data='about')
