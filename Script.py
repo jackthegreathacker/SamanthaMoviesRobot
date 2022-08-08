@@ -1,27 +1,27 @@
 class script(object):
     START_TXT = """Hello {} 👨‍💻,
-My Name is <a href='https://t.me/star_movies_hd_telugu'>Star Movies Bot</a>
+My Name is <a href='https://t.me/Jack_Network'>Star Movies Bot</a>
 I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
 Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
-Made With ❤ BY @star_movies_hd_telugu"""
+Made With ❤ BY @Jack_Network"""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
     ABOUT_TXT = """☞ My Name: Jack Movies
-☞ Developer: @star_movies_hd_telugu
-☞ Library: Pyrogram
-☞ Language: Python 3
-☞ DataBase: Mongo DB
-☞ Bot Server: Heroku
-☞ Build Status: v1.0.1 [Beta]
-☞ Updates:<a href='https://t.me/star_movies_hd_telugu'>@𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍𝙶𝚛𝚘𝚞𝚙</𝚊>
-☞ Support: <a href='https://t.me/star_movies_hd_telugu'> @𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍14</𝚊>
-☞ BotsList" : <a href='https://t.me/star_movies_hd_telugu'> @𝙿𝙷𝙻𝚒𝚜𝚝𝙱𝚘𝚝</𝚊>"""
+☞ Developer: @Jack_Network
+☞ Library: @MX_LIVE
+☞ Language: @MX_LIVE
+☞ DataBase: @Jack_Network
+☞ Bot Server: JACK
+☞ Build Status: v1.0.1 [Jack]
+☞ Updates:<a href='https://t.me/Jack_Network'>@𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍𝙶𝚛𝚘𝚞𝚙</𝚊>
+☞ Support: <a href='https://t.me/Jack_Network'> @𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍14</𝚊>
+☞ BotsList" : <a href='https://t.me/Jack_Network'> @𝙿𝙷𝙻𝚒𝚜𝚝𝙱𝚘𝚝</𝚊>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://t.me/star_movies_hd_telugu
+- Jack Maria is a open source project. 
+- Source - https://t.me/Jack_Network
 
 <b>DEVS:</b>
-- <a href=https://t.me/star_movies_hd_telugu>Team Jack</a>"""
+- <a href=https://t.me/Jack_Network>Team Jack</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
